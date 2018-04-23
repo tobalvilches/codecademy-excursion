@@ -4,7 +4,7 @@ body{
 }
 
 #main-header {
-    font-family: Verdana;
+
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -15,8 +15,12 @@ body{
     color: gray;
 }
 
+body {
+    font-family: Verdana;
+    text-align: center;
+}
+
 h1 {
-    font-family: verdana;
     font-weight: 300px;
     font-size: 42px;
     color: white;
@@ -28,7 +32,6 @@ a {
 }
 
 p {
-    font-family: verdana;
     font-size: 21px;
     color:gray;
 }
